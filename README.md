@@ -1,2 +1,3 @@
-# LinuxScripts
-Will be sharing Small Helpful Linux Scripts in Bash
+# Linux Scripts
+
+### Will be sharing small helpful Linux scripts in `bash`. :tada:
